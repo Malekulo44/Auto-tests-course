@@ -1,2 +1,2 @@
 # Auto-tests-course
-Auto tests (Stepik cource)
+Auto tests (Stepik cource1)
